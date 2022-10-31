@@ -1,6 +1,6 @@
-# Fish_Weight_Prediction_Linear_And_Polynomial_Regression
+# Fish Weight Prediction Using Linear And Polynomial Regression
 
-# MID Project Machine Learning Course Unhas
+### MID Project Machine Learning Course Unhas
 
 # Instalation
 To use this project, first clone the repo on your device using the command below:
