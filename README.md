@@ -5,7 +5,7 @@
 # Instalation
 To use this project, first clone the repo on your device using the command below:
 
-```https://github.com/Muhthoriqas/Fish_Weight_Prediction_Linear_And_Polynomial_Regression.git```
+```git clone https://github.com/Muhthoriqas/Fish_Weight_Prediction_Linear_And_Polynomial_Regression.git```
 
 # Development
 Then try to run some files from this repostory at ```Jupyter Notebook, Google Collab, Or VSCode```
