@@ -18,6 +18,6 @@ if you want to fetch the dataset from kaggle:
 | :exclamation: Dont Forget To Use Your Own Kaggle API Token |
 |-----------------------------------------|
 
-Or You Can Donwload Dataset Here  
+Or You Can Donwload Dataset Here:  
 | :zap:        |https://www.kaggle.com/datasets/aungpyaeap/fish-market     |
 |---------------|:------------------------|
